@@ -1,8 +1,8 @@
 /* Created by: Venika Sem
  * Created on: Mar 2022
- * This CSS file defines the style for index.html ICS2O-Unit1-06-HTML-Favicon
+ * This CSS file defines the style for index2.html ICS2O-Unit1-06-HTML-Favicon
 */
 
-.demo-list-item {
-  width: 300px;
+body {
+  background-color: powderblue;
 }
